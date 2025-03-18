@@ -1,6 +1,0 @@
-pip
-setuptools
-wheel
-discord
-flask
-aiohttp
