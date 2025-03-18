@@ -1,1 +1,1 @@
-worker: bash install_python.sh
+worker: docker build -t my-bot . && docker run my-bot
