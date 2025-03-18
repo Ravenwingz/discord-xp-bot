@@ -1,1 +1,1 @@
-worker: /home/koyeb/.heroku/python/bin/python bot.py
+worker: python bot.py
